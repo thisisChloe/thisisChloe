@@ -1,4 +1,7 @@
 # Introducing myself 🙋🏻‍♀️
+
+![Data Analyst Banner](https://github.com/user-attachments/assets/95f113e3-0fb3-4ade-8f2c-66532867a592)
+
 Hello, I'm Chloe. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 
 - Querying data using SQL.
