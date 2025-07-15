@@ -22,4 +22,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/thisi
 
 ### 👋🏻 Connect with Me
 
-Linkedin
+[Linkedin](https://www.linkedin.com/in/thisischloetruong/)
